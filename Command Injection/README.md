@@ -1,16 +1,16 @@
 ## Người thực hiện: Trần Ngọc Nam
 ## Thời gian thực hiện: 23/5/2022
 
-# Mục lục
-- [Mục lục](#mục-lục)
-  - [Command Injection là gì?](#command-injection-là-gì)
-  - [Code Injection vs Command Injection:](#code-injection-vs-command-injection)
-    - [Code Injection:](#code-injection)
-    - [Command Injection:](#command-injection)
-  - [Cách hoạt động của Command Injection:](#cách-hoạt-động-của-command-injection)
-  - [Ví dụ về Command Injection:](#ví-dụ-về-command-injection)
-  - [Các Command Injection phổ biến:](#các-command-injection-phổ-biến)
-  - [Phòng ngừa Command Injection:](#phòng-ngừa-command-injection)
+- [Người thực hiện: Trần Ngọc Nam](#người-thực-hiện-trần-ngọc-nam)
+- [Thời gian thực hiện: 23/5/2022](#thời-gian-thực-hiện-2352022)
+- [Command Injection là gì?](#command-injection-là-gì)
+- [Code Injection vs Command Injection:](#code-injection-vs-command-injection)
+  - [Code Injection:](#code-injection)
+  - [Command Injection:](#command-injection)
+- [Cách hoạt động của Command Injection:](#cách-hoạt-động-của-command-injection)
+- [Ví dụ về Command Injection:](#ví-dụ-về-command-injection)
+- [Các Command Injection phổ biến:](#các-command-injection-phổ-biến)
+- [Phòng ngừa Command Injection:](#phòng-ngừa-command-injection)
 
 
 ## Command Injection là gì?
