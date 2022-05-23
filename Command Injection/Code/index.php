@@ -2,8 +2,8 @@
 if (isset($_POST['submit'])) {
     $target = $_REQUEST['ip'];
     if (stristr(php_uname('s'), 'Windows NT')) {
-        //$cmd = shell_exec('ping ' . $target);
-        $cmd = shell_exec(escapeshellcmd("ping " . escapeshellarg($target)));
+        $cmd = shell_exec('ping ' . $target);
+        //$cmd = shell_exec(escapeshellcmd("ping " . escapeshellarg($target)));
     } else {
         $cmd = shell_exec('ping -c 3 ' . $target);
     }
